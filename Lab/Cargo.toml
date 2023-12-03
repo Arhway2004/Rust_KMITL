@@ -1,0 +1,21 @@
+[package]
+name = "Lab"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8"
+clap = "2.33"
+svg = "0.5"
+
+
+# [RandConfig]
+# x_inside = -1.5
+# x_outside = 1.5
+# y_inside = -1.5
+# y_outside = 1.5
+
+# [gen_point_list]
+# n = 50
